@@ -1,8 +1,7 @@
 #!/bin/bash -x
+#Author: Prateek
 
-
-dice1=$((RANDOM%6+1))
-dice2=$((RANDOM%6+1))
+#Dice game
 rolls=0
 sum=0
 
